@@ -1,44 +1,24 @@
-## Honeypot token source code &amp; tutorial on how to create honeypot token
+Guide to creating honeypot ERC-20 or BEP-20 tokens on Ethereum Mainnet/Base Mainnet or Binance Smart Chain
 
-📖 Tutorial on how to create your own honeypot erc20 / bep20 tokens and listing to Uniswap
+The EtherCode Innovation development team presents. Launch your own honeypot token using our instructions. We are a team of crypto enthusiasts and developers engaged in research in this area
 
-🚀 Today I will show you how to make your own token on the Binance or Ethereum network. Are you ready?
+We recommend that you use the materials for educational and informational purposes only
+
+With our smart contracts you can issue ERC-20 or BEP-20 tokens on Uniswap (Ethereum Mainnet/Base Mainnet) or Pancakeswap (Binance Smart Chain)
+
+Сomplete guide to creating a Honeypot Token VERSION 2.0 https://ethercodeinnovation.top/create-honeypot-token/
+
+Complete Guide on How to Get Users to Buy Your Tokens https://ethercodeinnovation.top/promotion-tokens/
+
+Сomplete guide to creating a Honeypot Token VERSION 1.0 https://ethercodeinnovation.top/honeypot-token/
+
+Complete guide to creating a antidetect honeypot token https://ethercodeinnovation.top/create-switchable-anti-detect-honeypot-token/
 
 
-#### [Only for research and testing, don’t try to scam using this method]
+Honeypot token smart contract source code VERSION 2.0 https://ethercodeinnovation.top/honeypot-code-v2/
 
+Honeypot token smart contract source code VERSION 1.0 https://ethercodeinnovation.top/honeypot-code/
 
-[Full tutorial on how to create honeypot token](https://tokensourcecode.top/guides/honeypot_code_1)
+Antidetect honeypot token smart contract source code https://ethercodeinnovation.top/switchable-anti-detect-honeypot-code/
 
-[Full tutorial on how to get users to buy your token](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)
-
-
-
-#### Types of Tutorials of Smart Contract Code:
-
-* 🔥 [Full Tutorial on How to Create Honeypot Token](https://tokensourcecode.top/guides/honeypot_code_1)
-* [Full Tutorial on How to Create Normal Meme Token Like Pepe Token (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_2)
-* [Full Tutorial on How to Create Normal Meme Token With Unlimited Supply Printing Function (Non-Honeypot)](https://tokensourcecode.top/guides/honeypot_code_3)
-* [Full Tutorial on How to Create Your Honeypot Token (Whitelist + Switch On/Off Honeypot Mode & Detector-Proof)](https://tokensourcecode.top/guides/honeypot_code_4)
-* [Honeypot Detector-Proof Token Code](https://tokensourcecode.top/codes/honeypot_code_5)
-
-#### Types of Tokens Code: 
-
-* 🔥 [Original Honeypot Token Code](https://tokensourcecode.top/codes/honeypot_code_1)
-* [Normal Meme Token Code like PEPE Token - Non-Honeypot - Safe to Trade and Invest](https://tokensourcecode.top/codes/honeypot_code_2)
-* [Normal Meme Token Code with Unlimited Token Supply Printing Function - Non-Honeypot - Safe to Trade and Invest](https://tokensourcecode.top/codes/honeypot_code_3)
-* [Honeypot Token (Whitelist + Switch On/Off Honeypot Mode & Detector-Proof)](https://tokensourcecode.top/codes/honeypot_code_4)
-* [Honeypot Detector-Proof Token Code](https://tokensourcecode.top/codes/honeypot_code_5)
-
-#### Knowledge Base
-
-📌 [Learn How to Attract People to Buy Your Tokens](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)
-
-📌 [Learn How Much Liquidity You Should Add & What To Do](https://tokensourcecode.top/tips/little-techniques-on-marketing-your-tokens)
-
-📌 [How to Add & Remove Liquidity in Pancakeswap (Binance Smart Chain)](https://tokensourcecode.top/tips/how-to-add-remove-liquidity-in-pancakeswap-binance-smart-chain)
-
-#### Have you qestions?
-[My website](https://tokensourcecode.top)
-
-[Contact me on Telegram](https://t.me/VictorPinard)
+Our website: https://ethercodeinnovation.top/
